@@ -7,6 +7,6 @@
 * Image folder for map tiles result
 * Assets folder for tile photo
 
-<a href="https://jinh48.github.io/car-collision-2020/index.html/" target="_blank">Link</a> for the interactive web page.
+[Link]("https://jinh48.github.io/car-collision-2020/index.html") for the interactive web page.
 ____________________________________________________________________________________________________________________________________________________________________
 
