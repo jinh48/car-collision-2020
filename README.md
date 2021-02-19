@@ -18,4 +18,8 @@ I would like to thanks UW Professor Bo Zhao and his team for creating this lab f
 
 ## Tile 1 - Modified Basemap
 
-![tile 1](img/tile\ 1.png)
+![tile 1](img/tile1.png)
+
+* Examined georaphic area: Within Seattle, WA
+* Zoom levels: Min: 11, Max: 15
+* Brief description: This tile will mainly focus on the road networks, thus, getting different colors of roads and make them more brighter to see easily againist the black backgroud. Each color representing the different type of the roads (highways, major roads, etc.) 
