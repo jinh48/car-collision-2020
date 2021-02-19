@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ## Introduction and Credits:
 
-The map simply displays the geospatial location of the car collision in Seattle, Washington during 2020 time stamp. Below will shows all the screenshot of the tile layers with brief descriptions. 
+The map simply displays the geospatial location of the car collision in Seattle, Washington during 2020 time stamp. Below will shows all the screenshot of the tile layers with brief descriptions. Please note that the tiles are only covering the Seattle area as the location is the main focus. I wasn't able to increase the tile level (in another word, to allow to zoom in more closely) due to the massive amount of time for the machine to generate over 30,000 tiles. The highest level I tried was at 17th, and noticed that the labeling and dots were still shrinking as I zoomed in. I figure it wasn't worth the view and the huge amount of time of waiting.   
 
 I would like to thanks UW Professor Bo Zhao and his team for creating this lab for educational purpose. I also would like to credit the Github user [ppete2](https://github.com/ppete2/Leaflet.PolylineMeasure) for using the Leaflet plug-in. 
 
